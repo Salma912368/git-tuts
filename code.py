@@ -1,0 +1,1 @@
+print("Say Wishes in Arabic");
